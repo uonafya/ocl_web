@@ -82,7 +82,7 @@ class Common(Configuration):
     ########## SITE CONFIGURATION
     # Hosts/domain names that are valid for this site
     # See https://docs.djangoproject.com/en/1.5/ref/settings/#allowed-hosts
-    ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]', '.openconceptlab.org', '.openmrs.org']
+    ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]', '41.89.94.117', '.openconceptlab.org', '.openmrs.org']
     ########## END SITE CONFIGURATION
 
     ########## MIDDLEWARE CONFIGURATION
